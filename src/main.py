@@ -4,7 +4,7 @@ from tkinter import scrolledtext
 import csv_reader
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='KEY')
 
 
 class PokemonAnalyzerGUI:
