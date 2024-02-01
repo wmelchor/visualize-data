@@ -1,0 +1,801 @@
+Name	HP
+Blissey	255
+Chansey	250
+Wobbuffet	190
+Wailord	170
+Alomomola	165
+Snorlax	160
+Drifblim	150
+Slaking	150
+GiratinaAltered Forme	150
+GiratinaOrigin Forme	150
+Hariyama	144
+Wigglytuff	140
+Munchlax	135
+Wailmer	130
+Vaporeon	130
+Lapras	130
+Xerneas	126
+Yveltal	126
+Lanturn	125
+Kyurem	125
+KyuremBlack Kyurem	125
+KyuremWhite Kyurem	125
+Gogoat	123
+Aurorus	123
+Throh	120
+Arceus	120
+Cresselia	120
+Musharna	116
+Rhyperior	115
+Jigglypuff	115
+Entei	115
+Amoonguss	114
+Gastrodon	111
+Whiscash	110
+Mandibuzz	110
+Regigigas	110
+Mamoswine	110
+Emboar	110
+Lickilicky	110
+Excadrill	110
+Reuniclus	110
+Walrein	110
+Stunfisk	109
+GarchompMega Garchomp	108
+Garchomp	108
+Zygarde50% Forme	108
+Hippowdon	108
+Ho-oh	106
+Lugia	106
+MewtwoMega Mewtwo X	106
+MewtwoMega Mewtwo Y	106
+Mewtwo	106
+DarmanitanStandard Mode	105
+Seismitoad	105
+KangaskhanMega Kangaskhan	105
+Kangaskhan	105
+Muk	105
+RayquazaMega Rayquaza	105
+Rhydon	105
+DarmanitanZen Mode	105
+Conkeldurr	105
+Rayquaza	105
+Exploud	104
+Audino	103
+AudinoMega Audino	103
+Skuntank	103
+Aromatisse	101
+Piloswine	100
+Mew	100
+Tyranitar	100
+Dialga	100
+Suicune	100
+Swalot	100
+Tangrowth	100
+KyogrePrimal Kyogre	100
+TyranitarMega Tyranitar	100
+Relicanth	100
+Groudon	100
+Noctowl	100
+SwampertMega Swampert	100
+Honchkrow	100
+Azumarill	100
+Celebi	100
+Kyogre	100
+Jirachi	100
+Swampert	100
+GroudonPrimal Groudon	100
+Manaphy	100
+Happiny	100
+Dunsparce	100
+Zekrom	100
+Victini	100
+ShayminLand Forme	100
+MeloettaPirouette Forme	100
+MeloettaAria Forme	100
+Braviary	100
+Reshiram	100
+ShayminSky Forme	100
+Jellicent	100
+Tropius	99
+Rampardos	97
+Milotic	95
+Krookodile	95
+SalamenceMega Salamence	95
+Wynaut	95
+Beartic	95
+Salamence	95
+Torterra	95
+Pangoro	95
+Bouffalant	95
+Exeggutor	95
+Samurott	95
+Avalugg	95
+Miltank	95
+Quagsire	95
+Umbreon	95
+Gyarados	95
+Slowking	95
+GyaradosMega Gyarados	95
+Clefable	95
+Slowbro	95
+SlowbroMega Slowbro	95
+Sylveon	95
+Hydreigon	92
+Dragonite	91
+Cobalion	91
+Terrakion	91
+KeldeoResolute Forme	91
+Virizion	91
+KeldeoOrdinary Forme	91
+Heatran	91
+Politoed	90
+Ursaring	90
+Phanpy	90
+Donphan	90
+Raikou	90
+Goodra	90
+Nidoqueen	90
+Sealeo	90
+AmpharosMega Ampharos	90
+Ampharos	90
+Shiftry	90
+Moltres	90
+Igglybuff	90
+Zapdos	90
+Articuno	90
+Arcanine	90
+Slowpoke	90
+Lickitung	90
+Poliwrath	90
+Machamp	90
+Pignite	90
+Palkia	90
+AbomasnowMega Abomasnow	90
+Dewgong	90
+Granbull	90
+Abomasnow	90
+Drifloon	90
+LandorusIncarnate Forme	89
+LandorusTherian Forme	89
+Golurk	89
+Chesnaught	88
+Malamar	86
+Yanmega	86
+Cradily	86
+Pyroar	86
+Togekiss	85
+Diggersby	85
+Crobat	85
+GourgeistSuper Size	85
+Hypno	85
+Furret	85
+Stoutland	85
+Gurdurr	85
+Porygon2	85
+Feraligatr	85
+Noivern	85
+Eelektross	85
+Porygon-Z	85
+Floatzel	85
+Gigalith	85
+Staraptor	85
+Heatmor	85
+Volcarona	85
+Trevenant	85
+Empoleon	84
+Loudred	84
+Toxicroak	83
+PidgeotMega Pidgeot	83
+Pidgeot	83
+Tyrantrum	82
+Slurpuff	82
+Nidoking	81
+Mesprit	80
+Unfezant	80
+HoopaHoopa Confined	80
+HoopaHoopa Unbound	80
+HeracrossMega Heracross	80
+Heracross	80
+Latios	80
+Blaziken	80
+BlazikenMega Blaziken	80
+Latias	80
+Registeel	80
+Regice	80
+Regirock	80
+MetagrossMega Metagross	80
+Metagross	80
+LatiosMega Latios	80
+Luxray	80
+Accelgor	80
+GlalieMega Glalie	80
+Glalie	80
+Sawsbuck	80
+Garbodor	80
+Flygon	80
+Grumpig	80
+LatiasMega Latias	80
+Vivillon	80
+Vigoroth	80
+Ludicolo	80
+Phione	80
+Volcanion	80
+Golduck	80
+Grimer	80
+Victreebel	80
+Aerodactyl	80
+Meganium	80
+Tentacruel	80
+Golem	80
+Machoke	80
+AerodactylMega Aerodactyl	80
+VenusaurMega Venusaur	80
+Seaking	80
+Rhyhorn	80
+Venusaur	80
+ThundurusTherian Forme	79
+ThundurusIncarnate Forme	79
+Bibarel	79
+TornadusIncarnate Forme	79
+Blastoise	79
+BlastoiseMega Blastoise	79
+TornadusTherian Forme	79
+Linoone	78
+Typhlosion	78
+Talonflame	78
+Hawlucha	78
+Florges	78
+CharizardMega Charizard Y	78
+CharizardMega Charizard X	78
+Charizard	78
+Spritzee	78
+Amaura	77
+Druddigon	77
+Kricketune	77
+Munna	76
+Haxorus	76
+Infernape	76
+Shellos	76
+Chatot	76
+Steelix	75
+Timburr	75
+GourgeistLarge Size	75
+Grotle	75
+Serperior	75
+Dewott	75
+Tauros	75
+Simisage	75
+Simipour	75
+Golbat	75
+Octillery	75
+Zebstrika	75
+Vileplume	75
+Houndoom	75
+Chinchou	75
+Forretress	75
+Palpitoad	75
+HoundoomMega Houndoom	75
+Sawk	75
+Leavanny	75
+Kingdra	75
+Armaldo	75
+Beheeyem	75
+Maractus	75
+AltariaMega Altaria	75
+Altaria	75
+Archeops	75
+Cinccino	75
+Sandslash	75
+Simisear	75
+Delphox	75
+Gliscor	75
+Sunflora	75
+Jumpluff	75
+Furfrou	75
+Ambipom	75
+SteelixMega Steelix	75
+Bellossom	75
+Electivire	75
+Magmortar	75
+Swanna	75
+Uxie	75
+Azelf	75
+MeowsticFemale	74
+Ferrothorn	74
+Carnivine	74
+MeowsticMale	74
+Carracosta	74
+Seviper	73
+Ninetales	73
+Stantler	73
+Zangoose	73
+Makuhita	72
+Greninja	72
+Sigilyph	72
+Barbaracle	72
+Zweilous	72
+Genesect	71
+Vanilluxe	71
+Purugly	71
+Clawitzer	71
+Cacturne	70
+LucarioMega Lucario	70
+Girafarig	70
+Gothitelle	70
+Lucario	70
+Torkoal	70
+CameruptMega Camerupt	70
+Camerupt	70
+Lunatone	70
+Solrock	70
+Froslass	70
+Darkrai	70
+Darumaka	70
+Mothim	70
+Omastar	70
+Vespiquen	70
+Boldore	70
+Magnezone	70
+Scizor	70
+Machop	70
+Weavile	70
+Spheal	70
+Cherrim	70
+ScizorMega Scizor	70
+Drapion	70
+Basculin	70
+Castform	70
+Scyther	70
+Lilligant	70
+Crustle	70
+SharpedoMega Sharpedo	70
+AggronMega Aggron	70
+Venomoth	70
+Delcatty	70
+Cryogonal	70
+Ariados	70
+Rufflet	70
+Vullaby	70
+Masquerain	70
+Nuzleaf	70
+Nidorina	70
+Mightyena	70
+Marshtomp	70
+Flaaffy	70
+SceptileMega Sceptile	70
+Sceptile	70
+Marill	70
+Sudowoodo	70
+Pupitar	70
+Aggron	70
+Clefairy	70
+ManectricMega Manectric	70
+Escavalier	70
+Gulpin	70
+Manectric	70
+Galvantula	70
+Sharpedo	70
+Foongus	69
+Lumineon	69
+Gabite	68
+Sliggoo	68
+GalladeMega Gallade	68
+Gardevoir	68
+GardevoirMega Gardevoir	68
+Gallade	68
+Hippopotas	68
+Swoobat	67
+Cranidos	67
+Dedenne	67
+Pancham	67
+Bronzong	67
+Skiddo	66
+Fraxure	66
+Lileep	66
+Seel	65
+Espeon	65
+Scrafty	65
+Pinsir	65
+Dragalge	65
+Illumise	65
+Jynx	65
+GourgeistAverage Size	65
+Electabuzz	65
+Magmar	65
+Rapidash	65
+Croconaw	65
+Fearow	65
+Xatu	65
+Herdier	65
+Glaceon	65
+Leafeon	65
+Duosion	65
+Qwilfish	65
+BeedrillMega Beedrill	65
+Lopunny	65
+LopunnyMega Lopunny	65
+Tangela	65
+Beedrill	65
+Gligar	65
+Weezing	65
+PinsirMega Pinsir	65
+Tepig	65
+Eelektrik	65
+Skarmory	65
+Poliwhirl	65
+Bisharp	65
+AbsolMega Absol	65
+Absol	65
+Chimecho	65
+Primeape	65
+Shelgon	65
+Yanma	65
+Weepinbell	65
+Mienshao	65
+Jolteon	65
+Mantine	65
+Persian	65
+Volbeat	65
+Porygon	65
+Flareon	65
+BanetteMega Banette	64
+Liepard	64
+Prinplup	64
+Monferno	64
+Whismur	64
+Banette	64
+Stunky	63
+Crawdaunt	63
+Pidgeotto	63
+Ducklett	62
+Espurr	62
+Litleo	62
+Swirlix	62
+Fletchinder	62
+Heliolisk	62
+Tranquill	62
+Nidorino	61
+Quilladin	61
+Ninjask	61
+Dragonair	61
+Krokorok	60
+Klinklang	60
+Klang	60
+Deerling	60
+Chandelure	60
+Snover	60
+Marowak	60
+Lampent	60
+Exeggcute	60
+GengarMega Gengar	60
+Whimsicott	60
+Butterfree	60
+Watchog	60
+Servine	60
+Zoroark	60
+Raichu	60
+Arbok	60
+Dodrio	60
+Gloom	60
+Drilbur	60
+Scolipede	60
+Probopass	60
+Gengar	60
+Parasect	60
+Drowzee	60
+Gothorita	60
+Venonat	60
+AegislashShield Forme	60
+AegislashBlade Forme	60
+Electrode	60
+Pelipper	60
+WormadamTrash Cloak	60
+WormadamPlant Cloak	60
+Dustox	60
+Bastiodon	60
+Lombre	60
+Roserade	60
+Swellow	60
+Starmie	60
+Shroomish	60
+Breloom	60
+Slakoth	60
+Luxio	60
+Lairon	60
+Medicham	60
+MedichamMega Medicham	60
+Plusle	60
+Minun	60
+Numel	60
+Spoink	60
+Hoothoot	60
+Spinda	60
+Claydol	60
+Kecleon	60
+Bayleef	60
+Ivysaur	60
+Metang	60
+WormadamSandy Cloak	60
+Kabutops	60
+Pachirisu	60
+Snubbull	60
+Misdreavus	60
+Combusken	60
+Teddiursa	60
+Murkrow	60
+Mismagius	60
+Beautifly	60
+PumpkabooSuper Size	59
+Doublade	59
+Braixen	59
+Bidoof	59
+Golett	59
+Wartortle	59
+Gible	58
+Durant	58
+Cofagrigus	58
+Quilava	58
+Charmeleon	58
+Tyrunt	58
+Klefki	57
+Bronzor	57
+Chespin	56
+Elgyem	55
+Cubchoo	55
+Raticate	55
+Roggenrola	55
+Woobat	55
+Gorebyss	55
+Huntail	55
+Mareep	55
+AlakazamMega Alakazam	55
+Alakazam	55
+Sneasel	55
+Swadloon	55
+Nidoran♀	55
+Togetic	55
+Growlithe	55
+Bergmite	55
+Skiploom	55
+Archen	55
+Minccino	55
+GourgeistSmall Size	55
+Aipom	55
+Eevee	55
+Larvesta	55
+Emolga	55
+Wooper	55
+Frillish	55
+Smeargle	55
+Corsola	55
+Ledian	55
+Seadra	55
+Kingler	55
+Turtwig	55
+Oshawott	55
+Buneary	55
+Buizel	55
+Graveler	55
+Staravia	55
+PumpkabooLarge Size	54
+Tirtouga	54
+Floette	54
+Frogadier	54
+Piplup	53
+Inkay	53
+Deino	52
+Farfetch'd	52
+Vanillish	51
+Ponyta	50
+Grovyle	50
+Spiritomb	50
+Psyduck	50
+Magneton	50
+Karrablast	50
+Vibrava	50
+Larvitar	50
+Trubbish	50
+Mudkip	50
+Silcoon	50
+Roselia	50
+Cascoon	50
+Azurill	50
+Cleffa	50
+Shelmet	50
+Skitty	50
+Sableye	50
+RotomMow Rotom	50
+SableyeMega Sableye	50
+Mawile	50
+MawileMega Mawile	50
+Aron	50
+Litwick	50
+RotomFan Rotom	50
+Cloyster	50
+RotomFrost Rotom	50
+RotomWash Rotom	50
+RotomHeat Rotom	50
+Rotom	50
+Sandshrew	50
+Joltik	50
+Cacnea	50
+Pansear	50
+Snorunt	50
+Sandile	50
+DeoxysAttack Forme	50
+Tympole	50
+DeoxysDefense Forme	50
+Carbink	50
+Bellsprout	50
+Magcargo	50
+Metapod	50
+Bonsly	50
+Cubone	50
+Hitmonlee	50
+DeoxysNormal Forme	50
+Clauncher	50
+Pineco	50
+Swinub	50
+Skrelp	50
+Pidove	50
+Panpour	50
+DiancieMega Diancie	50
+Pansage	50
+Hitmontop	50
+Scraggy	50
+Barboach	50
+Diancie	50
+Dwebble	50
+Totodile	50
+DeoxysSpeed Forme	50
+Hitmonchan	50
+Glameow	49
+Finneon	49
+PumpkabooAverage Size	49
+Croagunk	48
+Unown	48
+Ditto	48
+Axew	46
+Nidoran♂	46
+Oddish	45
+Chingling	45
+Elekid	45
+Dusknoir	45
+Goomy	45
+Haunter	45
+Honedge	45
+Kakuna	45
+Goldeen	45
+Smoochum	45
+Cherubi	45
+Torchic	45
+Mantyke	45
+Spewpa	45
+Fletchling	45
+Wurmple	45
+Houndour	45
+Caterpie	45
+Delibird	45
+Magby	45
+Pawniard	45
+Bulbasaur	45
+Gothita	45
+Anorith	45
+Snivy	45
+Swablu	45
+Lillipup	45
+Trapinch	45
+Solosis	45
+Blitzle	45
+Bagon	45
+Petilil	45
+Shinx	45
+Chikorita	45
+Carvanha	45
+Sewaddle	45
+Mienfoo	45
+Patrat	45
+PumpkabooSmall Size	44
+Flabébé	44
+Ferroseed	44
+Chimchar	44
+Squirtle	44
+Shuppet	44
+Helioptile	44
+Corphish	43
+Luvdisc	43
+Phantump	43
+Binacle	42
+Froakie	41
+Purrloin	41
+Dratini	41
+Riolu	40
+Surskit	40
+Starly	40
+Electrike	40
+Wingull	40
+Tentacool	40
+Treecko	40
+Zorua	40
+Mankey	40
+Klink	40
+Zubat	40
+Baltoy	40
+Pidgey	40
+Weedle	40
+Poliwag	40
+Skorupi	40
+Beldum	40
+Koffing	40
+Cottonee	40
+Dusclops	40
+Whirlipede	40
+Geodude	40
+Taillow	40
+Kadabra	40
+Budew	40
+Noibat	40
+Lotad	40
+Burmy	40
+Spearow	40
+Mr. Mime	40
+Slugma	40
+Fennekin	40
+Voltorb	40
+Natu	40
+Spinarak	40
+Meowth	40
+Ledyba	40
+Seedot	40
+Charmander	39
+Cyndaquil	39
+Zigzagoon	38
+Scatterbug	38
+Kirlia	38
+Vulpix	38
+Yamask	38
+Bunnelby	38
+Kricketot	37
+Vanillite	36
+Tynamo	35
+Paras	35
+Remoraid	35
+Omanyte	35
+Clamperl	35
+Ekans	35
+Poochyena	35
+Pikachu	35
+Dugtrio	35
+Togepi	35
+Onix	35
+Doduo	35
+Sentret	35
+Tyrogue	35
+Hoppip	35
+Nincada	31
+Shellder	30
+Staryu	30
+Nosepass	30
+Horsea	30
+Sunkern	30
+Kabuto	30
+Gastly	30
+Meditite	30
+Rattata	30
+Krabby	30
+Combee	30
+Venipede	30
+Shieldon	30
+Ralts	28
+Abra	25
+Magnemite	25
+Shuckle	20
+Mime Jr.	20
+Pichu	20
+Magikarp	20
+Feebas	20
+Duskull	20
+Diglett	10
+Shedinja	1
